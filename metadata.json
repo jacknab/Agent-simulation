@@ -1,0 +1,6 @@
+{
+  "name": "SpeechFlow: Billing Support Simulator",
+  "description": "A high-fidelity TTS conversation simulator featuring a male customer and female billing agent, demonstrating a subscription cancellation scenario with synchronized visual overlays.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Multilingual TTS", "Conversation Simulation"]
+}
